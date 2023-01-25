@@ -1,0 +1,10 @@
+{
+  "context-menu": {
+    ".CodeMirror": [
+      {
+        "label": "New Note from selection",
+        "command": "note-from-selection:create"
+      }
+    ]
+  }
+}

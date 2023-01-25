@@ -1,0 +1,5 @@
+{
+  "body": {
+    "cmd-shift-e": "note-from-selection:create"
+  }
+}
