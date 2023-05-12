@@ -3,7 +3,16 @@
     ".CodeMirror": [
       {
         "label": "New Note from selection",
-        "command": "note-from-selection:create"
+        "submenu": [
+          {
+            "label": "Current notebook",
+            "command": "note-from-selection:create"
+          },
+          {
+            "label": "Select notebook",
+            "command": "note-from-selection:createWithModal"
+          }
+        ]
       }
     ]
   }

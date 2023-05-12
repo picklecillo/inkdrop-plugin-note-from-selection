@@ -1,5 +1,6 @@
 {
   "body": {
-    "cmd-shift-e": "note-from-selection:create"
+    "cmd-shift-e": "note-from-selection:create",
+    "cmd-shift-ctrl-e": "note-from-selection:createWithModal"
   }
 }
