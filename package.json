@@ -12,7 +12,7 @@
   },
   "license": "MIT",
   "engines": {
-    "inkdrop": "^5.3.1"
+    "inkdrop": "^5.8.0"
   },
   "dependencies": {}
 }

@@ -18,8 +18,10 @@ Wraps selection with link to new note
 
 ## Config Options
 
-### Create backlink on the new note (`createBacklinkOnNewNote`)
+### [REMOVED] Create backlink on the new note (`createBacklinkOnNewNote`)
 Disable to skip creating a link to the parent of the new note.
+
+With the release of v5.8.0 and the backlinks feature, this is no longer needed.
 
 
 ## TO DO
@@ -27,3 +29,4 @@ Disable to skip creating a link to the parent of the new note.
 * [x] Shortcut for note on the same notebook
 * [x] Secondary command shows modal for notebook selection
 * [x] Link to parent note
+* [x] Remove backlinks option
