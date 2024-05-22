@@ -9,7 +9,7 @@
             "command": "note-from-selection:create"
           },
           {
-            "label": "Select notebook",
+            "label": "Select notebook...",
             "command": "note-from-selection:createWithModal"
           }
         ]
