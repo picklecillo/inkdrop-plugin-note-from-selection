@@ -6,10 +6,7 @@
   "keywords": [
     "notes"
   ],
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:picklecillo/inkdrop-plugin-note-from-selection.git"
-  },
+  "repository": "https://github.com/picklecillo/inkdrop-plugin-note-from-selection",
   "license": "MIT",
   "engines": {
     "inkdrop": "^5.8.0"
