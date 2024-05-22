@@ -9,3 +9,8 @@
 
 ## 0.5.0 - Nothing much
 * Now using Inkdrop's own NotebookListBar instead of custom
+
+## 0.6.0 - Multiple updates after v5.8.0
+* Dropped backlinks
+* Updated format of links so they show status and tags
+* Config option for max title length
