@@ -14,3 +14,6 @@
 * Dropped backlinks
 * Updated format of links so they show status and tags
 * Config option for max title length
+
+## 0.6.1 - Fix new note URI
+* Fixed new link invalid URI format
