@@ -1,7 +1,7 @@
 {
   "name": "note-from-selection",
   "main": "./lib/note-from-selection",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "description": "Create a new linked note from selected text",
   "keywords": [
     "notes"
